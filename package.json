@@ -1,0 +1,19 @@
+{
+  "name": "flying-chicken-system",
+  "version": "1.0.0",
+  "description": "System for managing employees work times and gathering this info for generating salaries resumes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanmuruzabal/flying-chicken-system.git"
+  },
+  "author": "Esteban Muruzabal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanmuruzabal/flying-chicken-system/issues"
+  },
+  "homepage": "https://github.com/estebanmuruzabal/flying-chicken-system#readme"
+}
